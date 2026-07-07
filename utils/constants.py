@@ -1,8 +1,0 @@
-APP_NAME="FuelInsight AI"
-SUBTITLE="Hệ thống phân tích, dự báo giá dầu DO 0,05S-II và hỗ trợ quản trị chi phí logistics"
-REQUIRED_COLS=["CPI","USD_VND","Brent","Gia_DO"]
-DEFAULT_CONST=-10270
-DEFAULT_BETA_CPI=67590
-DEFAULT_BETA_USD=0.5234
-DEFAULT_BETA_BRENT=188.8192
-MODEL_R2_REFERENCE=0.921
