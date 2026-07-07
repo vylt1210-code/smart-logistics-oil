@@ -1,0 +1,15 @@
+Đặt 13 ảnh của bạn vào thư mục này:
+
+logo.png
+hero_fuel_ai.jpg
+dashboard_overview.jpg
+data_analytics.jpg
+oil_forecast.jpg
+logistics_truck.jpg
+risk_alert.jpg
+report_export.jpg
+oil_refinery.jpg
+brent_market.jpg
+currency_exchange.jpg
+research_team.jpg
+background_pattern.png
