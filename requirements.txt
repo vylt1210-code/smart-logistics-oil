@@ -1,5 +1,8 @@
 streamlit
 pandas
 numpy
-plotly
-python-docx
+matplotlib
+statsmodels
+scikit-learn
+xlsxwriter
+openpyxl
